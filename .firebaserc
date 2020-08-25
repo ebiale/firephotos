@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firephotos-9a5c8": {
+      "hosting": {
+        "firephotos": [
+          "firephotos-9a5c8"
+        ]
+      }
+    }
+  }
+}
